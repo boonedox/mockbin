@@ -5,7 +5,7 @@
   "website": "http://mockbin.org/",
   "success_url": "/",
   "addons": [
-    "openredis"
+    "heroku-redis:hobby-dev"
   ],
   "keywords": [
     "api",
